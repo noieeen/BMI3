@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI2</string>
+    <string name="start">เริ่มต้น</string>
+    <string name="exit">ออก</string>
+</resources>

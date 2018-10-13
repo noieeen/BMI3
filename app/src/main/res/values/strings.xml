@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI2</string>
+    <string name = "start">START</string>
+    <string name = "exit">EXIT</string>
+</resources>
